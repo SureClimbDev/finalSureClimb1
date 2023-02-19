@@ -2291,7 +2291,7 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #208725;
+			color: #fa3636;
 		}
 
 		.icon.style2 {
@@ -2299,7 +2299,7 @@ input, select, textarea {
 		}
 
 		.icon.style3 {
-			color: #1c0a4c;
+			color: #f705f7c3;
 		}
 
 		.icon.style4 {
@@ -2307,7 +2307,7 @@ input, select, textarea {
 		}
 
 		.icon.style5 {
-			color: #121211;
+			color: #031bf1;
 		}
 
 		@media screen and (max-width: 1680px) {
