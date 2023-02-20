@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #74005d 15%, #00841a 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #74005d 15%, #00841a 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #74005d 15%, #00841a 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #74005d 15%, #00841a 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #400033 15%, #006E15 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #400033 15%, #006E15 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #400033 15%, #006E15 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #400033 15%, #006E15 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2291,7 +2291,7 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #fa3636;
+			color: #efa8b0;
 		}
 
 		.icon.style2 {
@@ -2299,7 +2299,7 @@ input, select, textarea {
 		}
 
 		.icon.style3 {
-			color: #f705f7c3;
+			color: #a89cc8;
 		}
 
 		.icon.style4 {
@@ -2307,7 +2307,7 @@ input, select, textarea {
 		}
 
 		.icon.style5 {
-			color: #031bf1;
+			color: #8cc9f0;
 		}
 
 		@media screen and (max-width: 1680px) {
